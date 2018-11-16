@@ -1,6 +1,14 @@
 <html>
 <head>
 <style>
+  <header>
+    <div class="head">
+      <ul>
+        <li><a href="#">HOME</a></li>
+        
+      </ul>
+    </div>
+  </header>
 </style>
 </head>
 <body>
